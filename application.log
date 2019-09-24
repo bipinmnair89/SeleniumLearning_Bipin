@@ -1,0 +1,8 @@
+2019-09-03 19:14:21,641  INFO [main] GenerateLogsWithLog4jConcept:23 - ********************************Loading Facebook Website*****************************
+2019-09-03 19:14:26,820  WARN [main] GenerateLogsWithLog4jConcept:25 - ********************************Navigating to another page Warning*****************************
+2019-09-03 19:14:32,872 DEBUG [main] GenerateLogsWithLog4jConcept:27 - ********************************Debug Log******************************************
+2019-09-03 19:14:36,811 FATAL [main] GenerateLogsWithLog4jConcept:29 - *****************************Fatal Error Chances Warning***************************
+2019-09-03 19:16:40,684  INFO [main] GenerateLogsWithLog4jConcept:23 - ********************************Loading Facebook Website*****************************
+2019-09-03 19:16:45,259  WARN [main] GenerateLogsWithLog4jConcept:25 - ********************************Navigating to another page Warning*****************************
+2019-09-03 19:16:49,191 DEBUG [main] GenerateLogsWithLog4jConcept:27 - ********************************Debug Log******************************************
+2019-09-03 19:16:52,276 FATAL [main] GenerateLogsWithLog4jConcept:29 - *****************************Fatal Error Chances Warning***************************
