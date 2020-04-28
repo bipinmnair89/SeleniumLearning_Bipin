@@ -46,6 +46,7 @@ public class BrokenLinksAndImageTesting {
 		
 		Thread.sleep(8000);
 		//use HTTPURLConnection
+		
 		for(int j=0;j<activeLinks.size();j++)
 		{
 			//System.out.println(activeLinks.get(j).getAttribute("href"));
